@@ -7,11 +7,11 @@ const Home = ({ sidebar }) => {
   return (
     <>
       <Sidebar sidebar={sidebar} />
-      <div className={`container ${sidebar ? "" : `large-container`}`}></div>
-      <Feed />
+      <div className={`container ${sidebar ? "" : `large-container`}`}>
+        <Feed />
+      </div>
     </>
   );
 };
 
 export default Home;
-
