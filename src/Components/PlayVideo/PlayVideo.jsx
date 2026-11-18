@@ -47,6 +47,90 @@ const PlayVideo = () => {
         <p>More random bs</p>
         <hr />
         <h4>169 Comments</h4>
+        <div className="comment">
+          <img src={user_profile} alt="" />
+          <div>
+            <h3>
+              User 1 <span>1 day ago</span>
+            </h3>
+            <p>Random Comment</p>
+            <div className="comment-action">
+              <img src={like} alt="" />
+              <span>244</span>
+              <img src={dislike} alt="" />
+            </div>
+          </div>
+        </div>
+        <div className="comment">
+          <img src={user_profile} alt="" />
+          <div>
+            <h3>
+              User 1 <span>1 day ago</span>
+            </h3>
+            <p>Random Comment</p>
+            <div className="comment-action">
+              <img src={like} alt="" />
+              <span>244</span>
+              <img src={dislike} alt="" />
+            </div>
+          </div>
+        </div>
+        <div className="comment">
+          <img src={user_profile} alt="" />
+          <div>
+            <h3>
+              User 1 <span>1 day ago</span>
+            </h3>
+            <p>Random Comment</p>
+            <div className="comment-action">
+              <img src={like} alt="" />
+              <span>244</span>
+              <img src={dislike} alt="" />
+            </div>
+          </div>
+        </div>
+        <div className="comment">
+          <img src={user_profile} alt="" />
+          <div>
+            <h3>
+              User 1 <span>1 day ago</span>
+            </h3>
+            <p>Random Comment</p>
+            <div className="comment-action">
+              <img src={like} alt="" />
+              <span>244</span>
+              <img src={dislike} alt="" />
+            </div>
+          </div>
+        </div>
+        <div className="comment">
+          <img src={user_profile} alt="" />
+          <div>
+            <h3>
+              User 1 <span>1 day ago</span>
+            </h3>
+            <p>Random Comment</p>
+            <div className="comment-action">
+              <img src={like} alt="" />
+              <span>244</span>
+              <img src={dislike} alt="" />
+            </div>
+          </div>
+        </div>
+        <div className="comment">
+          <img src={user_profile} alt="" />
+          <div>
+            <h3>
+              User 1 <span>1 day ago</span>
+            </h3>
+            <p>Random Comment</p>
+            <div className="comment-action">
+              <img src={like} alt="" />
+              <span>244</span>
+              <img src={dislike} alt="" />
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
